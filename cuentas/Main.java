@@ -4,7 +4,7 @@ package cuentas;
  * 
  */
 public class Main {
-
+/*some comment added to check commit*/
     public static void main(String[] args) {
         CCuenta cuenta1;
         double saldoActual;
